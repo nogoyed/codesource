@@ -1,0 +1,15 @@
+/* styles.css */
+h1.custom-title {
+    font-family: 'Arial', sans-serif; /* Police d'écriture */
+    font-size: 2.5rem; /* Taille du texte */
+    font-weight: bold; /* Épaisseur du texte */
+    color: #4CAF50; /* Couleur du texte */
+    text-align: center; /* Centrer le texte */
+    text-transform: uppercase; /* Mettre le texte en majuscules */
+    letter-spacing: 2px; /* Espacement entre les lettres */
+    margin: 20px 0; /* Marges haut et bas */
+    padding: 10px; /* Espacement interne */
+    background-color: #f4f4f4; /* Couleur de fond */
+    border-radius: 5px; /* Coins arrondis */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre */
+}
